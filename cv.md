@@ -1,4 +1,4 @@
-[rsschool-cv](https://AndriiHordov/github.io/cv)
+[rsschool-cv](https://AndriiHordov.github.io/test/cv)
 ----------------------------------------------------------------------------------------------------------------------------------------
 ![my own photo](/assets/img/cv_photo.png)
 # Andrii Hordov
