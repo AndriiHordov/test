@@ -1,6 +1,6 @@
 [rsschool-cv](https://AndriiHordov/github.io/cv)
 ----------------------------------------------------------------------------------------------------------------------------------------
-![Hello! It's Me!](/img/cv_photo.jpg)
+![my own photo](/assets/img/cv_photo.png)
 # Andrii Hordov
 
 ### RSS School student
@@ -8,9 +8,12 @@
 
 ### Contact information
 
-- Phone: +38 (099) 924-62-36
-- E-mail: andriihordov18@gmail.com
-- Telegram: @ah_andrew 
+[!phone](/assets/icons/phone-line-icon.svg) Phone: +38 (099) 924-62-36
+
+[!e-mail](/assets/icons/envelope-icon.svg) E-mail: andriihordov18@gmail.com
+
+[!telegram](/assets/icons/telegram-icon-black.svg) Telegram: @ah_andrew
+
 - [LinkedIn](https://www.linkedin.com/in/ah-andrew/) 
 - [GitHub](https://github.com/AndriiHordov/) 
 
@@ -39,7 +42,9 @@ Hello! My name is Andrew. I am 30 years old. I'm from Ukraine. I'm an accountant
 My profile on [CodeWars](www.codewars.com/users/AndrewWinterH) and it's my stats:
 [![codewars](https://www.codewars.com/users/AndrewWinterH/badges/small)](https://www.codewars.com/users/AndrewWinterH)
 
-#### This is KATA from CodeWars ***Human Readable Time***:
+#### This is KATA from CodeWars 
+
+***The Hashtag Generator***:
 
 ***DESCRIPTION:***
 *The marketing team is spending way too much time typing in hashtags. Let's help them with our own Hashtag Generator!*
