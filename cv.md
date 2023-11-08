@@ -8,12 +8,9 @@
 
 ### Contact information
 
-[!phone](/assets/icons/phone-line-icon.svg) Phone: +38 (099) 924-62-36
-
-[!e-mail](/assets/icons/envelope-icon.svg) E-mail: andriihordov18@gmail.com
-
-[!telegram](/assets/icons/telegram-icon-black.svg) Telegram: @ah_andrew
-
+- Phone: +38 (099) 924-62-36
+- E-mail: andriihordov18@gmail.com
+- Telegram: @ah_andrew
 - [LinkedIn](https://www.linkedin.com/in/ah-andrew/) 
 - [GitHub](https://github.com/AndriiHordov/) 
 
