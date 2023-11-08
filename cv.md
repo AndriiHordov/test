@@ -7,7 +7,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ### Contact information
-
+----------------------------------------------------------------------------------------------------------------------------------------
 - Phone: +38 (099) 924-62-36
 - E-mail: andriihordov18@gmail.com
 - Telegram: @ah_andrew
@@ -17,7 +17,6 @@
 ### About Myself
 ----------------------------------------------------------------------------------------------------------------------------------------
 Hello! My name is Andrew. I am 30 years old. I'm from Ukraine. I'm an accountant by profession, but it's time to change something. Since childhood, I have been interested in computers and Internet technologies, so I decided to try my hand at IT.	I believe, that my ability to learn and to gain new skills will help me become a Frontend Developer and in the future - a proficient Full Stack developer.
-
 
 ### Skills
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -33,21 +32,19 @@ Hello! My name is Andrew. I am 30 years old. I'm from Ukraine. I'm an accountant
 - ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 - ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
-
 ### Code example
 ----------------------------------------------------------------------------------------------------------------------------------------
 My profile on [CodeWars](www.codewars.com/users/AndrewWinterH) and it's my stats:
 [![codewars](https://www.codewars.com/users/AndrewWinterH/badges/small)](https://www.codewars.com/users/AndrewWinterH)
 
-#### This is KATA from CodeWars 
+#### Here is KATA from CodeWars 
 
-***The Hashtag Generator***:
+***The Hashtag Generator***
 
 ***DESCRIPTION:***
 *The marketing team is spending way too much time typing in hashtags. Let's help them with our own Hashtag Generator!*
 
 **Here's the deal:**
-
 - It must start with a hashtag (#).
 - All words must have their first letter capitalized.
 - If the final result is longer than 140 chars it must return false.
